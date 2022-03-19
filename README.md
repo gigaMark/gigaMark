@@ -4,6 +4,7 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-1A1B51?style=for-the-badge&logo=Python&logoColor=659AD2)
+![Java](https://img.shields.io/badge/-Python-1A1B51?style=for-the-badge&logo=Java&logoColor=659AD2)
 
 
 ### Follow Me
